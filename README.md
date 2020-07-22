@@ -20,7 +20,7 @@
 
 在以下地方偶尔写写东西
 
-[☞blog alpha](http://blog.assorted.pw)
+[☞blog alpha](http://blog.assorted.ink)
 [☞blog beta](http://windring.github.io/Koishumi/#!/home)
 <!--
 [shimeru](https://baitieyi.coding.me/assorted/tree/)
