@@ -2,7 +2,9 @@
 
 ![windring's github stats](https://github-readme-stats.vercel.app/api?username=windring&show_icons=true)
 
-### About Me / 关于 我
+![windring's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windring)
+
+### About me / 关于 我
 
 学生
 
