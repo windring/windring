@@ -16,11 +16,11 @@
 
 ### Org / 团体
 
-[aclius](https://github.com/acliusBackHome/) [/\*aclius's wiki\*/](https://org.assorted.ink/)
+[aclius](https://github.com/acliusBackHome/) [/\*aclius' wiki\*/](https://org.assorted.ink/)
 
 ### Links / 向外的链接
 
-在以下地方偶尔写写东西
+偶尔写东西
 
 [☞blog alpha](http://blog.assorted.ink)
 [☞blog beta](http://windring.github.io/Koishumi/#!/home)
@@ -31,10 +31,12 @@
 [lofter](http://gomoku.lofter.com/)
 -->
 
-在以下社区偶尔活动
+偶尔在社区活动
 
-[instagram](https://www.instagram.com/baitieyi/) [twitter](https://twitter.com/tieyi2)
+[bilibili](https://space.bilibili.com/16049371)
+
 <!--
+[instagram](https://www.instagram.com/baitieyi/) [twitter](https://twitter.com/tieyi2)
 [facebook](https://www.facebook.com/tieyi.white)
 ~~[google+](https://plus.google.com/u/0/108265196773712975362)~~
 [mastodon](https://m.cmx.im/@baitieyi)
